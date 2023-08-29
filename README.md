@@ -4,4 +4,5 @@
 
 # 개발환경
 IDE: VS Code 1.81.1
+
 Python: 3.11.5
